@@ -1,3 +1,6 @@
+# EXERCÍCIO: Implementar um cenário com o pygame.
+# ALUNAS: Sophia Santos e Lorena Luvizotto
+
 import pygame
 width = 800 #Largura Janela
 height = 600 #Altura Janela

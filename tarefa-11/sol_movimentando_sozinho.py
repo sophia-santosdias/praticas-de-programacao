@@ -1,3 +1,6 @@
+# EXERCÍCIO: Implementar a movimentação de um elemento do cenário sozinho.
+# ALUNAS: Sophia Santos e Lorena Luvizotto
+
 import pygame
 width = 800 #Largura Janela
 height = 600 #Altura Janela

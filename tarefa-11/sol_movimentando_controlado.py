@@ -1,3 +1,6 @@
+# EXERCÍCIO: Movimentar um elemento do cenário com o teclado.
+# ALUNAS: Sophia Santos e Lorena Luvizotto
+
 import pygame
 width = 800 #Largura Janela
 height = 600 #Altura Janela
